@@ -38,6 +38,7 @@ OpenClaw RPA Manager — Session persistence & script generation CLI
 
 import argparse
 import json
+import os
 import re
 import shutil
 import subprocess
